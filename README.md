@@ -1,4 +1,4 @@
-# Multi Threading Matrix Multiplication - pthread lib
+# Multi Threading Matrix Multiplication - pthread
 
 A multi-threading C application for Matirx Multiplication.
 
